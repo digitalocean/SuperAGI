@@ -6,7 +6,7 @@ databases:
     name: super-agi-main
     num_nodes: 1
     size: basic-xs
-    version: "12"
+    version: "14"
 ingress:
   rules:
     - component:
